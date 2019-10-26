@@ -1,0 +1,349 @@
+﻿  main.cpp
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(221): warning C4005: “GLUT_RGB”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(162): note: 参见“GLUT_RGB”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(222): warning C4005: “GLUT_RGBA”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(163): note: 参见“GLUT_RGBA”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(223): warning C4005: “GLUT_INDEX”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(164): note: 参见“GLUT_INDEX”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(224): warning C4005: “GLUT_SINGLE”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(165): note: 参见“GLUT_SINGLE”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(225): warning C4005: “GLUT_DOUBLE”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(166): note: 参见“GLUT_DOUBLE”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(226): warning C4005: “GLUT_ACCUM”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(167): note: 参见“GLUT_ACCUM”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(227): warning C4005: “GLUT_ALPHA”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(168): note: 参见“GLUT_ALPHA”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(228): warning C4005: “GLUT_DEPTH”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(169): note: 参见“GLUT_DEPTH”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(229): warning C4005: “GLUT_STENCIL”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(170): note: 参见“GLUT_STENCIL”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(231): warning C4005: “GLUT_MULTISAMPLE”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(171): note: 参见“GLUT_MULTISAMPLE”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(232): warning C4005: “GLUT_STEREO”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(172): note: 参见“GLUT_STEREO”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(235): warning C4005: “GLUT_LUMINANCE”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(173): note: 参见“GLUT_LUMINANCE”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(239): warning C4005: “GLUT_LEFT_BUTTON”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(151): note: 参见“GLUT_LEFT_BUTTON”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(240): warning C4005: “GLUT_MIDDLE_BUTTON”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(152): note: 参见“GLUT_MIDDLE_BUTTON”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(241): warning C4005: “GLUT_RIGHT_BUTTON”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(153): note: 参见“GLUT_RIGHT_BUTTON”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(244): warning C4005: “GLUT_DOWN”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(154): note: 参见“GLUT_DOWN”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(245): warning C4005: “GLUT_UP”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(155): note: 参见“GLUT_UP”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(249): warning C4005: “GLUT_KEY_F1”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(126): note: 参见“GLUT_KEY_F1”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(250): warning C4005: “GLUT_KEY_F2”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(127): note: 参见“GLUT_KEY_F2”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(251): warning C4005: “GLUT_KEY_F3”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(128): note: 参见“GLUT_KEY_F3”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(252): warning C4005: “GLUT_KEY_F4”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(129): note: 参见“GLUT_KEY_F4”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(253): warning C4005: “GLUT_KEY_F5”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(130): note: 参见“GLUT_KEY_F5”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(254): warning C4005: “GLUT_KEY_F6”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(131): note: 参见“GLUT_KEY_F6”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(255): warning C4005: “GLUT_KEY_F7”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(132): note: 参见“GLUT_KEY_F7”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(256): warning C4005: “GLUT_KEY_F8”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(133): note: 参见“GLUT_KEY_F8”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(257): warning C4005: “GLUT_KEY_F9”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(134): note: 参见“GLUT_KEY_F9”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(258): warning C4005: “GLUT_KEY_F10”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(135): note: 参见“GLUT_KEY_F10”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(259): warning C4005: “GLUT_KEY_F11”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(136): note: 参见“GLUT_KEY_F11”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(260): warning C4005: “GLUT_KEY_F12”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(137): note: 参见“GLUT_KEY_F12”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(262): warning C4005: “GLUT_KEY_LEFT”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(138): note: 参见“GLUT_KEY_LEFT”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(263): warning C4005: “GLUT_KEY_UP”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(139): note: 参见“GLUT_KEY_UP”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(264): warning C4005: “GLUT_KEY_RIGHT”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(140): note: 参见“GLUT_KEY_RIGHT”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(265): warning C4005: “GLUT_KEY_DOWN”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(141): note: 参见“GLUT_KEY_DOWN”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(266): warning C4005: “GLUT_KEY_PAGE_UP”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(142): note: 参见“GLUT_KEY_PAGE_UP”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(267): warning C4005: “GLUT_KEY_PAGE_DOWN”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(143): note: 参见“GLUT_KEY_PAGE_DOWN”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(268): warning C4005: “GLUT_KEY_HOME”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(144): note: 参见“GLUT_KEY_HOME”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(269): warning C4005: “GLUT_KEY_END”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(145): note: 参见“GLUT_KEY_END”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(270): warning C4005: “GLUT_KEY_INSERT”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(146): note: 参见“GLUT_KEY_INSERT”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(274): warning C4005: “GLUT_LEFT”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(156): note: 参见“GLUT_LEFT”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(275): warning C4005: “GLUT_ENTERED”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(157): note: 参见“GLUT_ENTERED”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(278): warning C4005: “GLUT_MENU_NOT_IN_USE”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(180): note: 参见“GLUT_MENU_NOT_IN_USE”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(279): warning C4005: “GLUT_MENU_IN_USE”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(181): note: 参见“GLUT_MENU_IN_USE”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(282): warning C4005: “GLUT_NOT_VISIBLE”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(182): note: 参见“GLUT_NOT_VISIBLE”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(283): warning C4005: “GLUT_VISIBLE”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(183): note: 参见“GLUT_VISIBLE”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(286): warning C4005: “GLUT_HIDDEN”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(184): note: 参见“GLUT_HIDDEN”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(287): warning C4005: “GLUT_FULLY_RETAINED”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(185): note: 参见“GLUT_FULLY_RETAINED”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(288): warning C4005: “GLUT_PARTIALLY_RETAINED”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(186): note: 参见“GLUT_PARTIALLY_RETAINED”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(289): warning C4005: “GLUT_FULLY_COVERED”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(187): note: 参见“GLUT_FULLY_COVERED”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(292): warning C4005: “GLUT_RED”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(361): note: 参见“GLUT_RED”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(293): warning C4005: “GLUT_GREEN”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(362): note: 参见“GLUT_GREEN”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(294): warning C4005: “GLUT_BLUE”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(363): note: 参见“GLUT_BLUE”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(298): warning C4005: “GLUT_STROKE_ROMAN”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(195): note: 参见“GLUT_STROKE_ROMAN”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(299): warning C4005: “GLUT_STROKE_MONO_ROMAN”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(196): note: 参见“GLUT_STROKE_MONO_ROMAN”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(302): warning C4005: “GLUT_BITMAP_9_BY_15”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(197): note: 参见“GLUT_BITMAP_9_BY_15”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(303): warning C4005: “GLUT_BITMAP_8_BY_13”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(198): note: 参见“GLUT_BITMAP_8_BY_13”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(304): warning C4005: “GLUT_BITMAP_TIMES_ROMAN_10”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(199): note: 参见“GLUT_BITMAP_TIMES_ROMAN_10”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(305): warning C4005: “GLUT_BITMAP_TIMES_ROMAN_24”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(200): note: 参见“GLUT_BITMAP_TIMES_ROMAN_24”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(307): warning C4005: “GLUT_BITMAP_HELVETICA_10”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(201): note: 参见“GLUT_BITMAP_HELVETICA_10”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(308): warning C4005: “GLUT_BITMAP_HELVETICA_12”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(202): note: 参见“GLUT_BITMAP_HELVETICA_12”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(309): warning C4005: “GLUT_BITMAP_HELVETICA_18”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(203): note: 参见“GLUT_BITMAP_HELVETICA_18”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(342): warning C4005: “GLUT_WINDOW_X”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(235): note: 参见“GLUT_WINDOW_X”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(343): warning C4005: “GLUT_WINDOW_Y”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(236): note: 参见“GLUT_WINDOW_Y”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(344): warning C4005: “GLUT_WINDOW_WIDTH”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(237): note: 参见“GLUT_WINDOW_WIDTH”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(345): warning C4005: “GLUT_WINDOW_HEIGHT”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(238): note: 参见“GLUT_WINDOW_HEIGHT”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(346): warning C4005: “GLUT_WINDOW_BUFFER_SIZE”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(239): note: 参见“GLUT_WINDOW_BUFFER_SIZE”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(347): warning C4005: “GLUT_WINDOW_STENCIL_SIZE”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(240): note: 参见“GLUT_WINDOW_STENCIL_SIZE”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(348): warning C4005: “GLUT_WINDOW_DEPTH_SIZE”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(241): note: 参见“GLUT_WINDOW_DEPTH_SIZE”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(349): warning C4005: “GLUT_WINDOW_RED_SIZE”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(242): note: 参见“GLUT_WINDOW_RED_SIZE”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(350): warning C4005: “GLUT_WINDOW_GREEN_SIZE”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(243): note: 参见“GLUT_WINDOW_GREEN_SIZE”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(351): warning C4005: “GLUT_WINDOW_BLUE_SIZE”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(244): note: 参见“GLUT_WINDOW_BLUE_SIZE”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(352): warning C4005: “GLUT_WINDOW_ALPHA_SIZE”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(245): note: 参见“GLUT_WINDOW_ALPHA_SIZE”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(353): warning C4005: “GLUT_WINDOW_ACCUM_RED_SIZE”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(246): note: 参见“GLUT_WINDOW_ACCUM_RED_SIZE”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(354): warning C4005: “GLUT_WINDOW_ACCUM_GREEN_SIZE”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(247): note: 参见“GLUT_WINDOW_ACCUM_GREEN_SIZE”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(355): warning C4005: “GLUT_WINDOW_ACCUM_BLUE_SIZE”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(248): note: 参见“GLUT_WINDOW_ACCUM_BLUE_SIZE”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(356): warning C4005: “GLUT_WINDOW_ACCUM_ALPHA_SIZE”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(249): note: 参见“GLUT_WINDOW_ACCUM_ALPHA_SIZE”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(357): warning C4005: “GLUT_WINDOW_DOUBLEBUFFER”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(250): note: 参见“GLUT_WINDOW_DOUBLEBUFFER”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(358): warning C4005: “GLUT_WINDOW_RGBA”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(251): note: 参见“GLUT_WINDOW_RGBA”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(359): warning C4005: “GLUT_WINDOW_PARENT”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(252): note: 参见“GLUT_WINDOW_PARENT”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(360): warning C4005: “GLUT_WINDOW_NUM_CHILDREN”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(253): note: 参见“GLUT_WINDOW_NUM_CHILDREN”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(361): warning C4005: “GLUT_WINDOW_COLORMAP_SIZE”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(254): note: 参见“GLUT_WINDOW_COLORMAP_SIZE”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(363): warning C4005: “GLUT_WINDOW_NUM_SAMPLES”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(255): note: 参见“GLUT_WINDOW_NUM_SAMPLES”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(364): warning C4005: “GLUT_WINDOW_STEREO”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(256): note: 参见“GLUT_WINDOW_STEREO”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(367): warning C4005: “GLUT_WINDOW_CURSOR”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(257): note: 参见“GLUT_WINDOW_CURSOR”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(369): warning C4005: “GLUT_SCREEN_WIDTH”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(259): note: 参见“GLUT_SCREEN_WIDTH”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(370): warning C4005: “GLUT_SCREEN_HEIGHT”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(260): note: 参见“GLUT_SCREEN_HEIGHT”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(371): warning C4005: “GLUT_SCREEN_WIDTH_MM”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(261): note: 参见“GLUT_SCREEN_WIDTH_MM”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(372): warning C4005: “GLUT_SCREEN_HEIGHT_MM”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(262): note: 参见“GLUT_SCREEN_HEIGHT_MM”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(373): warning C4005: “GLUT_MENU_NUM_ITEMS”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(263): note: 参见“GLUT_MENU_NUM_ITEMS”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(374): warning C4005: “GLUT_DISPLAY_MODE_POSSIBLE”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(264): note: 参见“GLUT_DISPLAY_MODE_POSSIBLE”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(375): warning C4005: “GLUT_INIT_WINDOW_X”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(265): note: 参见“GLUT_INIT_WINDOW_X”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(376): warning C4005: “GLUT_INIT_WINDOW_Y”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(266): note: 参见“GLUT_INIT_WINDOW_Y”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(377): warning C4005: “GLUT_INIT_WINDOW_WIDTH”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(267): note: 参见“GLUT_INIT_WINDOW_WIDTH”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(378): warning C4005: “GLUT_INIT_WINDOW_HEIGHT”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(268): note: 参见“GLUT_INIT_WINDOW_HEIGHT”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(379): warning C4005: “GLUT_INIT_DISPLAY_MODE”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(269): note: 参见“GLUT_INIT_DISPLAY_MODE”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(381): warning C4005: “GLUT_ELAPSED_TIME”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(270): note: 参见“GLUT_ELAPSED_TIME”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(384): warning C4005: “GLUT_WINDOW_FORMAT_ID”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(271): note: 参见“GLUT_WINDOW_FORMAT_ID”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(389): warning C4005: “GLUT_HAS_KEYBOARD”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(276): note: 参见“GLUT_HAS_KEYBOARD”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(390): warning C4005: “GLUT_HAS_MOUSE”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(277): note: 参见“GLUT_HAS_MOUSE”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(391): warning C4005: “GLUT_HAS_SPACEBALL”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(278): note: 参见“GLUT_HAS_SPACEBALL”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(392): warning C4005: “GLUT_HAS_DIAL_AND_BUTTON_BOX”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(279): note: 参见“GLUT_HAS_DIAL_AND_BUTTON_BOX”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(393): warning C4005: “GLUT_HAS_TABLET”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(280): note: 参见“GLUT_HAS_TABLET”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(394): warning C4005: “GLUT_NUM_MOUSE_BUTTONS”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(281): note: 参见“GLUT_NUM_MOUSE_BUTTONS”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(395): warning C4005: “GLUT_NUM_SPACEBALL_BUTTONS”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(282): note: 参见“GLUT_NUM_SPACEBALL_BUTTONS”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(396): warning C4005: “GLUT_NUM_BUTTON_BOX_BUTTONS”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(283): note: 参见“GLUT_NUM_BUTTON_BOX_BUTTONS”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(397): warning C4005: “GLUT_NUM_DIALS”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(284): note: 参见“GLUT_NUM_DIALS”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(398): warning C4005: “GLUT_NUM_TABLET_BUTTONS”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(285): note: 参见“GLUT_NUM_TABLET_BUTTONS”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(401): warning C4005: “GLUT_DEVICE_IGNORE_KEY_REPEAT”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(286): note: 参见“GLUT_DEVICE_IGNORE_KEY_REPEAT”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(402): warning C4005: “GLUT_DEVICE_KEY_REPEAT”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(287): note: 参见“GLUT_DEVICE_KEY_REPEAT”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(403): warning C4005: “GLUT_HAS_JOYSTICK”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(288): note: 参见“GLUT_HAS_JOYSTICK”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(404): warning C4005: “GLUT_OWNS_JOYSTICK”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(289): note: 参见“GLUT_OWNS_JOYSTICK”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(405): warning C4005: “GLUT_JOYSTICK_BUTTONS”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(290): note: 参见“GLUT_JOYSTICK_BUTTONS”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(406): warning C4005: “GLUT_JOYSTICK_AXES”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(291): note: 参见“GLUT_JOYSTICK_AXES”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(407): warning C4005: “GLUT_JOYSTICK_POLL_RATE”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(292): note: 参见“GLUT_JOYSTICK_POLL_RATE”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(412): warning C4005: “GLUT_OVERLAY_POSSIBLE”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(297): note: 参见“GLUT_OVERLAY_POSSIBLE”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(413): warning C4005: “GLUT_LAYER_IN_USE”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(298): note: 参见“GLUT_LAYER_IN_USE”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(414): warning C4005: “GLUT_HAS_OVERLAY”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(299): note: 参见“GLUT_HAS_OVERLAY”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(415): warning C4005: “GLUT_TRANSPARENT_INDEX”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(300): note: 参见“GLUT_TRANSPARENT_INDEX”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(416): warning C4005: “GLUT_NORMAL_DAMAGED”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(301): note: 参见“GLUT_NORMAL_DAMAGED”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(417): warning C4005: “GLUT_OVERLAY_DAMAGED”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(302): note: 参见“GLUT_OVERLAY_DAMAGED”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(421): warning C4005: “GLUT_VIDEO_RESIZE_POSSIBLE”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(307): note: 参见“GLUT_VIDEO_RESIZE_POSSIBLE”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(422): warning C4005: “GLUT_VIDEO_RESIZE_IN_USE”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(308): note: 参见“GLUT_VIDEO_RESIZE_IN_USE”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(423): warning C4005: “GLUT_VIDEO_RESIZE_X_DELTA”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(309): note: 参见“GLUT_VIDEO_RESIZE_X_DELTA”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(424): warning C4005: “GLUT_VIDEO_RESIZE_Y_DELTA”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(310): note: 参见“GLUT_VIDEO_RESIZE_Y_DELTA”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(425): warning C4005: “GLUT_VIDEO_RESIZE_WIDTH_DELTA”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(311): note: 参见“GLUT_VIDEO_RESIZE_WIDTH_DELTA”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(426): warning C4005: “GLUT_VIDEO_RESIZE_HEIGHT_DELTA”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(312): note: 参见“GLUT_VIDEO_RESIZE_HEIGHT_DELTA”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(427): warning C4005: “GLUT_VIDEO_RESIZE_X”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(313): note: 参见“GLUT_VIDEO_RESIZE_X”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(428): warning C4005: “GLUT_VIDEO_RESIZE_Y”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(314): note: 参见“GLUT_VIDEO_RESIZE_Y”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(429): warning C4005: “GLUT_VIDEO_RESIZE_WIDTH”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(315): note: 参见“GLUT_VIDEO_RESIZE_WIDTH”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(430): warning C4005: “GLUT_VIDEO_RESIZE_HEIGHT”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(316): note: 参见“GLUT_VIDEO_RESIZE_HEIGHT”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(434): warning C4005: “GLUT_NORMAL”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(321): note: 参见“GLUT_NORMAL”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(435): warning C4005: “GLUT_OVERLAY”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(322): note: 参见“GLUT_OVERLAY”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(438): warning C4005: “GLUT_ACTIVE_SHIFT”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(327): note: 参见“GLUT_ACTIVE_SHIFT”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(439): warning C4005: “GLUT_ACTIVE_CTRL”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(328): note: 参见“GLUT_ACTIVE_CTRL”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(440): warning C4005: “GLUT_ACTIVE_ALT”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(329): note: 参见“GLUT_ACTIVE_ALT”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(444): warning C4005: “GLUT_CURSOR_RIGHT_ARROW”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(334): note: 参见“GLUT_CURSOR_RIGHT_ARROW”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(445): warning C4005: “GLUT_CURSOR_LEFT_ARROW”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(335): note: 参见“GLUT_CURSOR_LEFT_ARROW”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(447): warning C4005: “GLUT_CURSOR_INFO”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(336): note: 参见“GLUT_CURSOR_INFO”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(448): warning C4005: “GLUT_CURSOR_DESTROY”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(337): note: 参见“GLUT_CURSOR_DESTROY”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(449): warning C4005: “GLUT_CURSOR_HELP”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(338): note: 参见“GLUT_CURSOR_HELP”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(450): warning C4005: “GLUT_CURSOR_CYCLE”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(339): note: 参见“GLUT_CURSOR_CYCLE”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(451): warning C4005: “GLUT_CURSOR_SPRAY”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(340): note: 参见“GLUT_CURSOR_SPRAY”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(452): warning C4005: “GLUT_CURSOR_WAIT”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(341): note: 参见“GLUT_CURSOR_WAIT”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(453): warning C4005: “GLUT_CURSOR_TEXT”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(342): note: 参见“GLUT_CURSOR_TEXT”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(454): warning C4005: “GLUT_CURSOR_CROSSHAIR”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(343): note: 参见“GLUT_CURSOR_CROSSHAIR”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(456): warning C4005: “GLUT_CURSOR_UP_DOWN”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(344): note: 参见“GLUT_CURSOR_UP_DOWN”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(457): warning C4005: “GLUT_CURSOR_LEFT_RIGHT”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(345): note: 参见“GLUT_CURSOR_LEFT_RIGHT”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(459): warning C4005: “GLUT_CURSOR_TOP_SIDE”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(346): note: 参见“GLUT_CURSOR_TOP_SIDE”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(460): warning C4005: “GLUT_CURSOR_BOTTOM_SIDE”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(347): note: 参见“GLUT_CURSOR_BOTTOM_SIDE”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(461): warning C4005: “GLUT_CURSOR_LEFT_SIDE”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(348): note: 参见“GLUT_CURSOR_LEFT_SIDE”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(462): warning C4005: “GLUT_CURSOR_RIGHT_SIDE”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(349): note: 参见“GLUT_CURSOR_RIGHT_SIDE”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(463): warning C4005: “GLUT_CURSOR_TOP_LEFT_CORNER”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(350): note: 参见“GLUT_CURSOR_TOP_LEFT_CORNER”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(464): warning C4005: “GLUT_CURSOR_TOP_RIGHT_CORNER”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(351): note: 参见“GLUT_CURSOR_TOP_RIGHT_CORNER”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(465): warning C4005: “GLUT_CURSOR_BOTTOM_RIGHT_CORNER”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(352): note: 参见“GLUT_CURSOR_BOTTOM_RIGHT_CORNER”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(466): warning C4005: “GLUT_CURSOR_BOTTOM_LEFT_CORNER”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(353): note: 参见“GLUT_CURSOR_BOTTOM_LEFT_CORNER”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(468): warning C4005: “GLUT_CURSOR_INHERIT”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(354): note: 参见“GLUT_CURSOR_INHERIT”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(470): warning C4005: “GLUT_CURSOR_NONE”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(355): note: 参见“GLUT_CURSOR_NONE”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(472): warning C4005: “GLUT_CURSOR_FULL_CROSSHAIR”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(356): note: 参见“GLUT_CURSOR_FULL_CROSSHAIR”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(655): warning C4005: “GLUT_KEY_REPEAT_OFF”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(368): note: 参见“GLUT_KEY_REPEAT_OFF”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(656): warning C4005: “GLUT_KEY_REPEAT_ON”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(369): note: 参见“GLUT_KEY_REPEAT_ON”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(657): warning C4005: “GLUT_KEY_REPEAT_DEFAULT”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(370): note: 参见“GLUT_KEY_REPEAT_DEFAULT”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(660): warning C4005: “GLUT_JOYSTICK_BUTTON_A”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(372): note: 参见“GLUT_JOYSTICK_BUTTON_A”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(661): warning C4005: “GLUT_JOYSTICK_BUTTON_B”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(373): note: 参见“GLUT_JOYSTICK_BUTTON_B”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(662): warning C4005: “GLUT_JOYSTICK_BUTTON_C”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(374): note: 参见“GLUT_JOYSTICK_BUTTON_C”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(663): warning C4005: “GLUT_JOYSTICK_BUTTON_D”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(375): note: 参见“GLUT_JOYSTICK_BUTTON_D”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(671): warning C4005: “GLUT_GAME_MODE_ACTIVE”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(380): note: 参见“GLUT_GAME_MODE_ACTIVE”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(672): warning C4005: “GLUT_GAME_MODE_POSSIBLE”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(381): note: 参见“GLUT_GAME_MODE_POSSIBLE”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(673): warning C4005: “GLUT_GAME_MODE_WIDTH”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(382): note: 参见“GLUT_GAME_MODE_WIDTH”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(674): warning C4005: “GLUT_GAME_MODE_HEIGHT”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(383): note: 参见“GLUT_GAME_MODE_HEIGHT”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(675): warning C4005: “GLUT_GAME_MODE_PIXEL_DEPTH”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(384): note: 参见“GLUT_GAME_MODE_PIXEL_DEPTH”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(676): warning C4005: “GLUT_GAME_MODE_REFRESH_RATE”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(385): note: 参见“GLUT_GAME_MODE_REFRESH_RATE”的前一个定义
+g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\glut.h(677): warning C4005: “GLUT_GAME_MODE_DISPLAY_CHANGED”: 宏重定义
+  g:\visualstudio2017\vs2017\vside\vc\tools\msvc\14.15.26726\include\gl\freeglut_std.h(386): note: 参见“GLUT_GAME_MODE_DISPLAY_CHANGED”的前一个定义
+f:\浙大\课程\计算机图形学\作业\区间扫描线\20190105\rangescanline\rangescanline\rangescanline.h(17): warning C4091: “typedef ”: 没有声明变量时忽略“EdgeNode”的左侧
+f:\浙大\课程\计算机图形学\作业\区间扫描线\20190105\rangescanline\rangescanline\rangescanline.h(26): warning C4091: “typedef ”: 没有声明变量时忽略“PolygonNode”的左侧
+f:\浙大\课程\计算机图形学\作业\区间扫描线\20190105\rangescanline\rangescanline\rangescanline.h(42): warning C4091: “typedef ”: 没有声明变量时忽略“ActiveEdge”的左侧
+f:\浙大\课程\计算机图形学\作业\区间扫描线\20190105\rangescanline\rangescanline\main.cpp(58): warning C4018: “<”: 有符号/无符号不匹配
+f:\浙大\课程\计算机图形学\作业\区间扫描线\20190105\rangescanline\rangescanline\main.cpp(309): warning C4018: “<”: 有符号/无符号不匹配
+  RangeScanLine.vcxproj -> F:\浙大\课程\计算机图形学\作业\区间扫描线\20190105\RangeScanLine\Debug\RangeScanLine.exe
